@@ -1,2 +1,3 @@
-# prettier
-A haskell implementation of the pretty printer introduced by Philip Wadler in his paper "A prettier printer"
+# flix-doc
+
+The `Doc` of the source code formatter for the Flix programming language, just in Haskell.
