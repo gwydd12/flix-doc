@@ -17,7 +17,7 @@ This project is based on my implementation in Scala for the source code formatte
 * Leijen based layout aware combinators
 * Futhark formatter based line preservation with SingleLine and MultiLine
 
-This is not the almighty pretty printing algorithm, it is way less expressive than most. However, it allows for line preservation and simplifies the implementation for types of source code formatter.
+This is not the almighty pretty printing algorithm, it is way less expressive than most. However, it allows for line preservation and simplifies the implementation for these types of source code formatter.
 
 ## How to use
 
