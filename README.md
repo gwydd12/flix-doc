@@ -25,7 +25,6 @@ This is intended to be used as a library.
 
 ## Acknowledgments
 
-* Flix programmsimplified version of Wadler anding language
 * flixfmt (PS: I wrote that one :))
 * Wadler for his prettier algorithm
 * Leijen for his extension of the prettier algorithm
